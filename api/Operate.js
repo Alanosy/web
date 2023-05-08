@@ -1,6 +1,6 @@
 import request from '@/utils/request'
 
-const api_name = `/api/operate`
+const api_name = '/api/operate'
 
 export default {
     // 删除发表的评论

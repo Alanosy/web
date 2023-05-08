@@ -54,7 +54,7 @@
 
 <script>
 import touristApi from "@/api/tourist";
-import operateApi from "@/api/operate";
+// import operateApi from "@/api/operate";
 
 import { getToken } from "@/utils/auth";
 //组件
