@@ -1,0 +1,93 @@
+[
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "/Users/alan/Documents/Code/Demo/nuxt_campus_example/pages/register.vue",
+    "chunkName": "pages/register",
+    "_name": "_465b1487"
+  },
+  {
+    "name": "userlogin",
+    "path": "/userlogin",
+    "component": "/Users/alan/Documents/Code/Demo/nuxt_campus_example/pages/userlogin.vue",
+    "chunkName": "pages/userlogin",
+    "_name": "_71a44aca"
+  },
+  {
+    "name": "wxamp",
+    "path": "/wxamp",
+    "component": "/Users/alan/Documents/Code/Demo/nuxt_campus_example/pages/wxamp.vue",
+    "chunkName": "pages/wxamp",
+    "_name": "_6b5e230f"
+  },
+  {
+    "name": "User-management",
+    "path": "/User/management",
+    "component": "/Users/alan/Documents/Code/Demo/nuxt_campus_example/pages/User/management.vue",
+    "chunkName": "pages/User/management",
+    "_name": "_1ddc45b3"
+  },
+  {
+    "name": "User-profile",
+    "path": "/User/profile",
+    "component": "/Users/alan/Documents/Code/Demo/nuxt_campus_example/pages/User/profile/index.vue",
+    "chunkName": "pages/User/profile/index",
+    "_name": "_2f72be2c"
+  },
+  {
+    "name": "User-publish",
+    "path": "/User/publish",
+    "component": "/Users/alan/Documents/Code/Demo/nuxt_campus_example/pages/User/publish.vue",
+    "chunkName": "pages/User/publish",
+    "_name": "_56954a62"
+  },
+  {
+    "name": "User-profile-resetPwd",
+    "path": "/User/profile/resetPwd",
+    "component": "/Users/alan/Documents/Code/Demo/nuxt_campus_example/pages/User/profile/resetPwd.vue",
+    "chunkName": "pages/User/profile/resetPwd",
+    "_name": "_5affe804"
+  },
+  {
+    "name": "User-profile-userAvatar",
+    "path": "/User/profile/userAvatar",
+    "component": "/Users/alan/Documents/Code/Demo/nuxt_campus_example/pages/User/profile/userAvatar.vue",
+    "chunkName": "pages/User/profile/userAvatar",
+    "_name": "_7e8f531a"
+  },
+  {
+    "name": "User-profile-userEmail",
+    "path": "/User/profile/userEmail",
+    "component": "/Users/alan/Documents/Code/Demo/nuxt_campus_example/pages/User/profile/userEmail.vue",
+    "chunkName": "pages/User/profile/userEmail",
+    "_name": "_e91ff92a"
+  },
+  {
+    "name": "User-profile-userInfo",
+    "path": "/User/profile/userInfo",
+    "component": "/Users/alan/Documents/Code/Demo/nuxt_campus_example/pages/User/profile/userInfo.vue",
+    "chunkName": "pages/User/profile/userInfo",
+    "_name": "_65cd1a2f"
+  },
+  {
+    "name": "c-contentId",
+    "path": "/c/:contentId",
+    "component": "/Users/alan/Documents/Code/Demo/nuxt_campus_example/pages/c/_contentId/index.vue",
+    "chunkName": "pages/c/_contentId/index",
+    "_name": "_2772a2c8"
+  },
+  {
+    "name": "email-validate-uuid",
+    "path": "/email-validate/:uuid",
+    "component": "/Users/alan/Documents/Code/Demo/nuxt_campus_example/pages/email-validate/_uuid/index.vue",
+    "chunkName": "pages/email-validate/_uuid/index",
+    "_name": "_35a86b19"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/alan/Documents/Code/Demo/nuxt_campus_example/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_5b5e0dc4"
+  }
+]
